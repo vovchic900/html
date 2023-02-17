@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html style="color:red">
+    <head>
+    <title>Это мой сайт</title>
+    <meta charset="utf-8">
+    <meta name="keywords" content="привет, это мой сайт!">
+    <meta name="description" content="это тест">
+    <link rel="shortcut icon" href="https://cdn1.ozone.ru/s3/multimedia-n/6116035007.jpg"/>
+    <style>
+        table{
+        color:blue}
+    </style>
+    <link rel="stylesheet" href="hi.css">
+    </style>
+    </head>
+    <tbody>
+    <h2>Ссылка на мой сайт внизу!.</h2>
+    <ul>
+        <li><a href="https://sites.google.com/view/info-about-gorillas/главная-страница" target="_blank">Ссылка на мой сайт</a>, Привет андрюша!</li>
+    </ul>
+
+    <table class="hop">
+        <thead>
+        <tr>
+            <th>Название</th>
+            <th>Кол-во</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Яблоко</td>
+            <td>2<img src="https://kartinkin.net/uploads/posts/2022-12/1670335319_9-kartinkin-net-p-kartinka-atoma-krasivo-9.jpg" width="80"></td>
+        </tr>
+        </tbody>
+        <tbody>
+        <tr>
+            <td>Апельсин</td>
+            <td>3</td>
+        </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="2">Итог: 5<td>
+            </tr>
+        </tfoot>
+    </table>
+    <form class="" action="game.html" method="post">
+    <input type="password">
+        <input type="submit" name="" value="Отправить">
+    </form>
+    <h1 id="hi">Привет</h1>
+html <tr>
